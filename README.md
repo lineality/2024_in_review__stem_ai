@@ -1,5 +1,7 @@
 # 2024_in_review__stem_ai
 
+(under construction)
+
 2024 AI Year in Review
 
 Project Management & AI ML: Old Books & the Genie in the Lamp, 
